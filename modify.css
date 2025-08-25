@@ -1,0 +1,114 @@
+body{
+	background-color: whitesmoke;
+}
+main{
+	display: inline-flex;
+	gap: 55px;
+}
+.ar1{
+	margin-top: 75px;
+	margin-left: 60px;
+	display: flex;
+	flex-direction: column;
+}
+#op p{
+	color: rgba(0, 0, 0, 0.6);
+}
+#head span{
+	color: rgba(0, 0, 0, 0.7);
+}
+.mid p{
+	color: rgba(0, 0, 0, 0.6);
+}
+#log{
+	display: inline-block;
+}
+#first{
+	display: inline-flex;
+}
+#mail{
+	padding-bottom: 17px;
+}
+#mail a:link{
+    text-decoration: none;
+    color: black;
+}
+#second{
+	display: inline-flex;
+	gap: 19px;
+    margin-left: 10px;
+}
+#second a:link{
+	text-decoration: none;
+    color: black;
+}
+.ar2{
+	height: 450px;
+	width: 350px;
+	margin-top:60px;
+	display: flex;
+	flex-direction: column;
+	column-gap: ;
+	background-color: white;
+	border-radius: 15px;
+	padding:50px ;
+	box-sizing: border-box;
+
+}
+.ar2 .inpp
+{
+	background-color: whitesmoke;
+	width: 250px;
+	border: none;
+	border-radius: 5px;
+	padding: 5px;
+
+}
+select{
+	width: 250px;
+	border-radius: 5px;
+	background-color: whitesmoke;
+	border: none;
+	padding: 5px;
+}
+textarea{
+	background-color: whitesmoke;
+	width: 250px;
+	border: none;
+	border-radius:5px;
+	padding: 5px;
+}/*
+#bt1 input{
+	color: white;
+	padding: 10px;
+	background-color: darkblue;
+	position: relative;
+	margin-top: 3px;
+}*/
+#bt1{
+color: white;
+	
+	background-color: ;
+	position: relative;
+	margin-top: 3px;
+
+}
+.bt{
+	color: white;
+	padding: 20px;
+	padding-top: 18px;
+	padding-bottom: 18px;
+	padding-left:40px ;
+	background-color: darkblue;
+	width: 190px;
+	margin-top: 3px;
+	border-radius: 29px;
+	border: none;
+}
+
+.im .pic{
+	position: absolute;
+	top: 6px;
+	left:5px;
+	border-radius: 90px;
+}
